@@ -10,7 +10,7 @@ __Private score: 0.9826__ / __Public score: 0.9833__
 
 ## Data
 
-FastText embeddings trained locally on the competition data.<br/>
+FastText pre-trained embedding vector is used on this project.<br/>
 Please download word2vec binary file from [fasttext site](https://fasttext.cc/docs/en/english-vectors.html)
 And copy word2vec binary file to the data folder.
 
